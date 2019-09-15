@@ -17,7 +17,7 @@ If you asked to set up a host site it enables that and disables Apache's default
 
 Restarts Apache so that new config kicks in.
 
-Places lamptest.php in your root folder which tells you if Apache, PHP and MySQL are functioning correctly - just browse to localhost/lamptest.php to see the results.
+Places lamptest.php in your root folder which tells you if Apache, PHP and MySQL are functioning correctly - just browse to localhost/lamptest.php to see the results (requires JavaScript).
 
 ### Usage
 Same as any bash script - save it wherever, cd to that directory and set it to executable by running 

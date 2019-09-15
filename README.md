@@ -1,5 +1,5 @@
 # lamper
-## A bash script to install, configure and test a LAMP stack
+## A bash script to install, configure and test a fresh LAMP stack
 
 ### Features
 Only tested on Ubuntu but should work anywhere that uses apt.

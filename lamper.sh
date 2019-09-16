@@ -26,7 +26,7 @@ sleep 1
 echo "."
 sleep 1
 
-sudo apt install apache2 mysql-server php-mysql libapache2-mod-php* -y
+sudo apt install apache2 mysql-server php-mysql libapache2-mod-php -y
 
 #firewall config
 sudo ufw app info "Apache Full"
